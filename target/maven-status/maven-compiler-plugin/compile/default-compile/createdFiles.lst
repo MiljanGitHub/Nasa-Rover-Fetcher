@@ -1,0 +1,15 @@
+com\fevo\assignment\service\RoverService.class
+com\fevo\assignment\cashing\impl\FileFetcher.class
+com\fevo\assignment\cashing\impl\DbFetcher.class
+com\fevo\assignment\servlet\FetchServlet.class
+com\fevo\assignment\util\AppConstant.class
+com\fevo\assignment\Main.class
+com\fevo\assignment\model\Response.class
+com\fevo\assignment\cashing\impl\FilePersister.class
+com\fevo\assignment\cashing\Cash.class
+com\fevo\assignment\cashing\Persistable.class
+com\fevo\assignment\util\Validator.class
+com\fevo\assignment\cashing\Fetchable.class
+com\fevo\assignment\cashing\impl\DbPersister.class
+com\fevo\assignment\model\RoverType.class
+com\fevo\assignment\model\Photo.class
